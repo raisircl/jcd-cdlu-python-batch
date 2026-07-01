@@ -1,0 +1,15 @@
+1. enter 2 numbers and print subtraction
+2. enter marks of 5 subjects and print total and percetage
+3. enter principle, rate, time and print simple interest
+4. enter 2 nos and print their value after swaping
+5. enter 2 nos and print division 
+    5/2=> 2.5, 5//2=> 2
+6. enter mrp of a book and discount per and print 
+    discount and net price
+7. input rd premium and print maturity 
+    Post office : small saving account (RD)
+    Criteria : Min of RD premium 5/- month
+    Time Period : 5 years
+    maturity : 364.27 on 5 rupees per month 
+    Note: Premium always 5x?
+    Time : fix for 5 years    
